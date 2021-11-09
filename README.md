@@ -53,6 +53,11 @@ We can see that daily revenue for the month of <b>January</b> is <b>0</b>. We ca
 <p>
 <b>17.5%</b> which is the majority of customers shopped for less than <b><10000</b> daily.
 </p>
+  
+<h2>Weekdays<h2>
+
+<img src=" images/prices_weekday.png"  width="700">
+Here we can see that revenue on Saturday was 0. So the online retail is closed on Saturdays.
 <h2> Conclusion </h2>
 After applying the algorithm <b>Fbprophet</b> as the data was <b>Time-series</b>.
 <p>
