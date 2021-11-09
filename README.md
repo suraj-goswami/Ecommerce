@@ -20,3 +20,8 @@ Per the UCI Machine Learning Repository, this data was made available by Dr Daqi
 Data consist of <b>392735 rows and 9 columns</b> from where <b>Total Price</b> and <b>Invoice date</b> is only taken for prediction.
 
 <h3>First of all we find product with highest sales</h3>
+
+<img src="images/Sales_volume.png"  width="600">
+
+<p>
+From the figure we can see that the highest sales is for the product <b>"jumbo bag red retrospot"</b> and quantity of sales is: <b>30251</b>
